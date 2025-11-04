@@ -1,5 +1,5 @@
 ---
-name: Bug report Test- Flecktl
+name: Bug report - slemp
 about: Create a report to help us improve
 title: ''
 labels: ''
