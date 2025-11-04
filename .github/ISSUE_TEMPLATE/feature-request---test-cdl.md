@@ -1,8 +1,8 @@
 ---
-name: Feature request - ellisd4
-about: Suggest an idea for this project
-title: "[FR#]"
-labels: enhancement
+name: Feature request - TEST CDL
+about: Suggest an idea for this project - TEST
+title: ''
+labels: ''
 assignees: ''
 
 ---
@@ -16,7 +16,6 @@ A clear and concise description of what you want to happen.
 **Describe alternatives you've considered**
 A clear and concise description of any alternative solutions or features you've considered.
 
+I like this test
 **Additional context**
 Add any other context or screenshots about the feature request here.
-
-**Please add AI generated screenshots of the functionality you would like to see**
